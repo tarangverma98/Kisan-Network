@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".First"/>
+        <activity android:name=".SenderProfile"/>
     </application>
 
 </manifest>

@@ -3,4 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="green_munsell">#0DAB76</color>
+    <color name="green_pantone">#139A43</color>
+    <color name="old_lavander">#77567A</color>
+    <color name="african_voilet">#C47AC0</color>
+    <color name="arsenic">#424342</color>
+    <color name="burnished_brown">#AC7B7D</color>
+    <color name="google_color">#dd4b39</color>
+
 </resources>
